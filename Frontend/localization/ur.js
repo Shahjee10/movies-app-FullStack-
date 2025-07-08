@@ -1,0 +1,23 @@
+export default {
+  welcome: "مووی ایپ میں خوش آمدید",
+  searchPlaceholder: "مووی تلاش کریں...",
+  genre: "صنف منتخب کریں",
+  allGenres: "تمام اصناف",
+  select: "منتخب کریں",
+  addedToWatchlist: "کو واچ لسٹ میں شامل کر دیا گیا ہے!",
+  errorAddingToWatchlist: "واچ لسٹ میں شامل کرنے میں مسئلہ پیش آیا۔",
+  accountDetails: "اکاؤنٹ کی تفصیلات",
+  personalInformation: "ذاتی معلومات",
+  name: "نام",
+  email: "ای میل",
+  currentPassword: "موجودہ پاس ورڈ",
+  newPassword: "نیا پاس ورڈ",
+  confirmPassword: "پاس ورڈ کی تصدیق کریں",
+  saveChanges: "تبدیلیاں محفوظ کریں",
+  updating: "اپ ڈیٹ ہو رہا ہے...",
+  releasedOn: "جاری کیا گیا",
+  yetToReleaseOn: "ابھی جاری ہونا باقی ہے",
+  noOverviewAvailable: "کوئی تفصیل دستیاب نہیں۔",
+  noTrailerAvailable: "ٹریلر دستیاب نہیں",
+  unknown: "نامعلوم"
+};

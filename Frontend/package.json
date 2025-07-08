@@ -1,0 +1,47 @@
+{
+  "name": "moviesapp",
+  "license": "0BSD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-native-masked-view/masked-view": "0.3.2",
+    "@react-native-picker/picker": "^2.11.1",
+    "@react-navigation/drawer": "^7.4.4",
+    "@react-navigation/native": "^7.1.13",
+    "@react-navigation/native-stack": "^7.3.18",
+    "axios": "^1.10.0",
+    "base-64": "^1.0.0",
+    "expo": "~53.0.12",
+    "expo-av": "~15.1.6",
+    "expo-image-picker": "~16.1.4",
+    "expo-linear-gradient": "~14.1.5",
+    "expo-linking": "^7.1.7",
+    "expo-localization": "~16.1.6",
+    "expo-splash-screen": "^0.30.9",
+    "expo-status-bar": "~2.2.3",
+    "i18next": "^25.3.1",
+    "react": "19.0.0",
+    "react-i18next": "^15.6.0",
+    "react-native": "0.79.4",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-localize": "^3.4.2",
+    "react-native-paper": "^5.14.5",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-webview": "^13.15.0",
+    "react-native-youtube-iframe": "^2.4.1",
+    "react-navigation": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

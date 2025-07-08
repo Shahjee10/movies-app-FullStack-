@@ -1,0 +1,39 @@
+# Backend
+Backend/.env
+Backend/node_modules/
+
+# Frontend / Expo / React Native
+node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS files
+.DS_Store
+
+# Certificates and keys
+*.pem
+
+# Local env files
+.env*.local
+
+# TypeScript build info
+*.tsbuildinfo
