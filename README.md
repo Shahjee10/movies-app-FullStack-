@@ -123,6 +123,11 @@ A **full-featured Movies Application** built using **React Native & Expo**, inte
 ![Admin Dashboard](<img width="352" height="713" alt="image" src="https://github.com/user-attachments/assets/6ee97d7c-73aa-450c-9e3d-3699e2ea48fa" />
 )
 
+### 🛠️ Admin Panel
+![Admin Dashboard](screenshots/<img width="352" height="713" alt="image" src="https://github.com/user-attachments/assets/139915a2-0146-4f7b-89a5-5b42afc7b775" />
+)
+
+
 ---
 
 ## ⚠️ Known Limitation
